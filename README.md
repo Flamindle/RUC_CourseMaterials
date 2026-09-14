@@ -37,3 +37,20 @@ https://z-library.im，
 发布在了小红书：
 1）如何查找指定类型期刊并获取其投稿方式 1. 前提： 1) ... https://xhslink.cn/o/7sCvZA3tZBy 复制这段文字，打开【小红书】一键直达笔记。
 2）使用国家新闻出版署官网找指定类型期刊 1. 前提： ... https://xhslink.cn/o/88JVwO5nO19 【小红书】笔记已就绪，复制后即可查看~
+
+6. 2026年5月国考计算机题汇总（豆包）
+https://www.doubao.com/thread/xKLeJGZooqMvn4gqB
+（部分题型）
+
+
+
+
+
+
+
+
+
+
+
+
+
