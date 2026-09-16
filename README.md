@@ -1,4 +1,4 @@
-## 一、相关链接
+## 一、资料篇
 
 该项目下的所有文档是我从 Zotero 导出的，
 
@@ -58,7 +58,15 @@ https://z-library.im
 链接：https://pan.baidu.com/s/1-hyBLhyaXliZyiYsWEJzAA
 提取码：`m9nx`
 
-### 5. 小论文检索及投稿方法
+### 5. 2026 年 5 月国考计算机题汇总（豆包）
+
+https://www.doubao.com/thread/xKLeJGZooqMvn4gqB
+
+（部分题型）
+
+## 二、经验篇
+
+### 1. 小论文
 
 这个是我之前和其他同学开周会时总结的流程，发布在了小红书：
 
@@ -71,12 +79,13 @@ https://xhslink.cn/o/7sCvZA3tZBy
 
 https://xhslink.cn/o/88JVwO5nO19
 
+### 2. 大论文（毕业论文）
 
-### 6. 2026 年 5 月国考计算机题汇总（豆包）
 
-https://www.doubao.com/thread/xKLeJGZooqMvn4gqB
 
-（部分题型）
+
+
+
 
 
 # ！版权说明
