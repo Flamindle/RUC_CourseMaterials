@@ -22,7 +22,12 @@ https://github.com/jasnei/Learning_at_ruc
 
 在我备考期间，
 
-也多是从这里下载复习的。
+多是从这里下载复习的，
+
+包括我从Zotero导出的校考真题类文档，
+
+几乎也都是出自这里。
+
 
 ### 2. 教材类
 
@@ -68,21 +73,40 @@ https://www.doubao.com/thread/xKLeJGZooqMvn4gqB
 
 ### 1. 小论文
 
-这个是我之前和其他同学开周会时总结的流程，发布在了小红书：
+这个是我之前和其他同学开周会时总结的流程，
 
-1）如何查找指定类型期刊并获取其投稿方式
+发布在了小红书：
+
+#### 1）如何查找指定类型期刊并获取其投稿方式
 
 https://xhslink.cn/o/7sCvZA3tZBy
 
 
-2）使用国家新闻出版署官网找指定类型期刊
+#### 2）使用国家新闻出版署官网找指定类型期刊
 
 https://xhslink.cn/o/88JVwO5nO19
 
 ### 2. 大论文（毕业论文）
 
+与此同时，
 
+我也建立了一个有关论文阅读和写作的仓库，
 
+但是考虑到课题方向可能相“撞”，
+
+目前设置为私有不可访问状态， 
+
+等我顺利拿到学位后会设置为公开状态：
+
+https://github.com/Flamindle/RUC_Papers
+
+#### 1）确认某文献是否在CCF推荐的会议期刊中
+
+https://xhslink.cn/o/8wq6uoUlXdx
+
+#### 2）导师申请表如何填写
+
+https://xhslink.cn/o/2Ed6bMUKwCv
 
 
 
